@@ -1,0 +1,13 @@
+D:\Untiy-workspace\lesson2\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\Untiy-workspace\lesson2\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\Untiy-workspace\lesson2\Temp\bin\Debug\UnityEditor.dll
+D:\Untiy-workspace\lesson2\Temp\bin\Debug\UnityEngine.dll
+D:\Untiy-workspace\lesson2\Temp\bin\Debug\Mono.Cecil.dll
+D:\Untiy-workspace\lesson2\Temp\bin\Debug\nunit.framework.dll
+D:\Untiy-workspace\lesson2\Temp\bin\Debug\Unity.DataContract.dll
+D:\Untiy-workspace\lesson2\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Untiy-workspace\lesson2\obj\Debug\Assembly-CSharp-firstpass-vs.csprojResolveAssemblyReference.cache
+D:\Untiy-workspace\lesson2\obj\Debug\Assembly-CSharp-firstpass-vs.csproj.CoreCompileInputs.cache
+D:\Untiy-workspace\lesson2\obj\Debug\Assembly-CSharp-firstpass-vs.csproj.CopyComplete
+D:\Untiy-workspace\lesson2\obj\Debug\Assembly-CSharp-firstpass.dll
+D:\Untiy-workspace\lesson2\obj\Debug\Assembly-CSharp-firstpass.pdb
